@@ -1,4 +1,4 @@
-# CamelToPascalJsonSerializeer
+# Extwension to serialize a json object from camel case to pascal case
 
 #sln to :https://stackoverflow.com/questions/44511199/convert-json-string-from-camel-case-to-pascal-case-using-c-sharp and info from that too
 
